@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="494.072" id="Filter" width="493.92" x="6.83117" y="5.50701">
+<feDropShadow dx="-3.61999e-06" dy="1" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="3"/>
+</filter>
+<clipPath id="TextBounds">
+<rect height="533" width="337.498" x="104.661" y="4.40627"/>
+</clipPath>
+</defs>
+<g id="Слой-1" vectornator:layerName="Слой 1">
+<path d="M16.5183 11.171C16.5183 11.171 63.2057 10.1364 158.82 10.6501C205.966 10.9034 194.046 126.903 274.814 81.9023C344.339 43.1651 491.272 89.6314 491.272 89.6314L494.751 485.486L12.8312 492.579L16.5183 11.171Z" fill="#ff0000" fill-rule="nonzero" filter="url(#Filter)" stroke="none" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="1" vectornator:shadowOpacity="0.630858" vectornator:shadowRadius="6"/>
+<path d="M14.6218 177.418C14.6218 177.418 65.5113 285.132 157.592 174.558C258.757 53.0768 487.405 160.565 491.508 160.139C495.612 159.714 490.953 394.117 494.359 394.668C497.765 395.219 322.356 239.723 174.634 397.085C92.333 484.756 14.1294 367.589 14.1294 367.589L14.6218 177.418Z" fill="#b81c1c" fill-rule="nonzero" opacity="0.484696" stroke="none"/>
+<path clip-path="url(#TextBounds)" d="M299.815 374.858L204.829 374.858L191.759 419.406L106.529 419.406L207.958 149.542L298.894 149.542L400.324 419.406L313.069 419.406L299.815 374.858ZM282.327 316.504L252.506 219.493L222.869 316.504L282.327 316.504Z" fill="#ffffff" opacity="1" stroke="none"/>
+</g>
+</svg>
