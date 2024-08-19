@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="363.16763"
-   height="214.99812"
-   viewBox="0 0 363.16763 214.99812"
+   width="650.42206"
+   height="394.30215"
+   viewBox="0 0 650.42206 394.30215"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -157,12 +157,12 @@
   </defs>
   <g
      id="layer1"
-     transform="translate(-22.75145,-99.726189)">
+     transform="translate(109.20661,-36.868005)">
     <text
        xml:space="preserve"
        id="text1"
        style="white-space:pre;shape-inside:url(#rect1);opacity:0.303571;fill:#aa4400;stroke:#000000;stroke-width:9.955;stroke-dasharray:0.9955, 0.9955"
-       transform="translate(-9.8265896,-22.543353)"><tspan
+       transform="matrix(1.7909693,0,0,1.8339797,-167.55285,-187.37193)"><tspan
          x="116.18555"
          y="150.2546"
          id="tspan2"> </tspan></text>
@@ -172,7 +172,7 @@
        x="94.46846"
        y="126.00891"
        id="text10"
-       transform="matrix(1.448057,-0.01737548,0.00696898,1.2699265,-66.874659,28.216695)"><tspan
+       transform="matrix(2.5934255,-0.03186627,0.01248122,2.3290193,-269.72419,-94.279057)"><tspan
          id="tspan10"
          x="94.46846"
          y="126.00891"
@@ -184,14 +184,14 @@
        cy="268.33942"
        rx="137.09659"
        ry="5.673593"
-       transform="matrix(1.1690795,-0.04907889,0.93434431,7.5582851,-73.867233,-1819.8069)" />
+       transform="matrix(2.0937855,-0.09000968,1.6733819,13.861741,-282.24768,-3483.5166)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.7183px;font-family:Symbol;-inkscape-font-specification:Symbol;opacity:0.922261;fill:#ffe6d5;fill-opacity:1;stroke:#000000;stroke-width:0.81995;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter214)"
        x="154.52237"
        y="162.62297"
        id="text14"
-       transform="matrix(1.7133529,-0.03095601,-0.12969305,1.3707109,-175.33734,1.9570805)"><tspan
+       transform="matrix(3.0685624,-0.05677269,-0.23227626,2.5138559,-463.97752,-142.43864)"><tspan
          id="tspan14"
          x="154.52237"
          y="162.62297"
